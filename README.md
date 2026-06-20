@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/53_logo.png" alt="53 Signature Logo" width="400" style="border-radius: 10px;"/>
+  <img src="assets/53_logo.png" alt="53 Signature Logo" width="600" style="border-radius: 10px;"/>
   <h1>👁️ Sentinel-Trace</h1>
   <p><b>Advanced Digital Footprint Auditor & OSINT Engine</b></p>
 
